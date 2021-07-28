@@ -6,7 +6,7 @@ authors:
     given-names: Hugo
     orcid: "https://orcid.org/0000-0002-1251-8654"
 cff-version: "1.1.0"
-doi: "10.1016/j.isprsjprs.2020.07.010"
-message: "If you use this software, please cite it using these metadata."
-title: "My super title"
-...
+doi: "10.1186/s40965-018-0043-x"
+message: "If you use this software, please cite this paper."
+title: "val3dity: validation of 3D GIS primitives according to the international standards"
+
